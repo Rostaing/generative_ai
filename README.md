@@ -1,4 +1,4 @@
-**PART 1: GENERATIVE AI IN PRACTICE 🎓 | Getting Started with llm-axe & Ollama**
+**PART 1, 2 & 3: GENERATIVE AI IN PRACTICE 🎓**
 
 Welcome to this first video on generative AI, where we dive straight into practical applications! 🚀 In this series, I'll guide you step-by-step to understand and harness the power of generative AI models using tools like llm-axe and Ollama. Whether you're a developer, researcher, or simply passionate about AI, this series is for you!
 
