@@ -1,4 +1,4 @@
-**PART 1, 2 & 3: GENERATIVE AI IN PRACTICE 🎓**
+**PART 1, 2, 3 & 4: GENERATIVE AI IN PRACTICE 🎓**
 
 💡 **Subscribe to Rostaing.AI** to catch all the upcoming parts, where we'll explore real-world applications and advanced tips to take your AI skills even further! Don’t miss out on this opportunity to learn and grow your expertise in AI with clear, hands-on tutorials. 👇
 
